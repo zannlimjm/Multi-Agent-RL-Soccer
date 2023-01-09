@@ -1,4 +1,4 @@
-# MARL Google Research Football for ESP3201 Project (Group 4)
+# MARL Google Research Football for ESP3201 Project
 
 This folder contains an RL environment based on open-source game Gameplay, A3C and PPO agents 
 
