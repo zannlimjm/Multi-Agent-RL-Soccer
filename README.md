@@ -38,6 +38,6 @@ Note: The actions from trained model are the players in yellow.
 This is modification to the game play in order to test against the trained model. Hence, users (Blue Team) can play against the actions from the trained model (Yellow Team)
 ![alt text](/3v1_manual.gif)
 ## 11v11 A3C
-![alt text](/almost_scored_11v11.gif)
+![alt text](/11v11.gif)
 
 
